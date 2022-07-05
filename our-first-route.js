@@ -1,4 +1,3 @@
-
 /**
  * A plugin that provide encapsulated routes
  * @param {FastifyInstance} fastify encapsulated fastify instance
